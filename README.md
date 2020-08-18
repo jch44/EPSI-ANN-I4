@@ -4,7 +4,7 @@ Ce repository contient les notebooks utiles pour les TPs des cours DEVE841 DeepL
 
 Il sont destinés à être ouverts dans Collab par les participants au cours.
 
-## Environement local (Linux / MacOS)
+## Environnement local (Linux / MacOS)
 
 Installation de l'environement
 ```sh
@@ -14,7 +14,7 @@ source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
-Pour activer l'environement de dévelopement:
+Pour activer l'environnement de dévelopement:
 ```sh
 source venv/bin/activate
 ```
