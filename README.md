@@ -6,7 +6,7 @@ Il sont destinés à être ouverts dans Collab par les participants au cours.
 
 ## Environnement local (Linux / MacOS)
 
-Installation de l'environement
+Installation de l'environnement
 ```sh
 pip3 install virtualenv==1.7.1.2
 virtualenv --python=python3 venv
